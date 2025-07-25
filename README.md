@@ -22,8 +22,11 @@ I'm @nathangreen1632, an engineering student passionate about creating powerful,
 - Integrating Redis for caching and performance enhancement.
 
 ## 💡 Projects I'm proud of...
-- [CVitaePRO](https://www.cvitaepro.com): An AI-powered resume and cover letter generator helping users create ATS-friendly resumes effortlessly.
-- [SocialNetwork](https://github.com/nathangreen1632/SocialNetwork): A full-stack social platform aiming for seamless connectivity and user engagement.
+
+- [LeaseClarityPRO](https://www.leaseclaritypro.com): An AI-powered lease analyzer that helps renters understand, review, and challenge lease terms before signing — with legal insight and chatbot support.
+- [CVitaePRO](https://www.cvitaepro.com): An AI-driven resume and cover letter generator that builds tailored, ATS-optimized documents in minutes.
+- [CareerGistPRO](https://www.careergistpro.com): A smart job search platform with AI-enhanced job summaries, personalized recommendations, and job market analytics.
+- [PyDataPRO](http://www.pydatapro.com): A career analytics dashboard that connects your job search activity with insights, learning resources, and AI-generated interview prep.
 
 ## 📈 Sales & Leadership Experience
 - **SolarWinds (2020-2024)**: Managed a pipeline of 250 accounts per quarter, achieving 99.4% of a $6.2M quarterly quota; selected to pilot a flagship sales program.
