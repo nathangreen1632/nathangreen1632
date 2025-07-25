@@ -36,7 +36,7 @@ I'm @nathangreen1632, an engineering student passionate about creating powerful,
 ## 🎓 Education
 - **Texas State University** — B.A. in Political Science and Finance (2013)
   - Built a strong foundation in analytical thinking, economics, and public systems—skills I now apply to software architecture and problem-solving.
-- **The University of Texas at San Antonio** — Full-Stack Software Engineering (In Progress)
+- **The University of Texas at San Antonio** — Full-Stack Software Engineering
   - Focused on advanced JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, and LLM API integration. Completed multiple capstone projects and gained real-world experience in agile development, testing, and deployment.
 
 ## 💞️ I'm looking to collaborate on...
